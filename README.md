@@ -27,7 +27,7 @@ I'm a junior Computer Science student at Grambling State University (3.95 GPA) w
 
 * 📱 **[ZipMath](https://github.com/therealemmanueloppong/zipmath)** is a game-style mental-math app with lessons, XP, daily streaks and 26 levels across Basic, Intermediate and Advanced tiers. Built with **React Native (Expo) and TypeScript**. Every practice question is generated in code, so the answers are always correct. Next: automated tests and CI, accounts and sync with Supabase, then a store release.
 * 🤝 **[InterviewPair](https://github.com/therealemmanueloppong/interview-pair)** pairs students for mock technical interviews by topic, level and time. Early scaffold with a **Java 21 and Spring Boot** API (PostgreSQL, Flyway), a **React and TypeScript** frontend, and a tested matching rule. Java and Spring Boot are new to me, so this is where I'm learning them.
-* 🔎 **[notes-rag](https://github.com/therealemmanueloppong/notes-rag)** is a retrieval-based study assistant over my own notes, in **Python** with FAISS and sentence embeddings, plus a script that measures retrieval recall. Early scaffold, tested.
+* 🔎 **[Notes RAG](https://github.com/therealemmanueloppong/notes-rag)** is a retrieval-based study assistant over my own notes, in **Python** with FAISS and sentence embeddings, plus a script that measures retrieval recall. Early scaffold, tested.
 * 📊 **[Stock Price Prediction (AI4ALL Ignite)](https://github.com/jiaying-l/AI4All_Project)** is a team project: a financial NLP pipeline using FinBERT sentiment features and a Random Forest classifier over 322K headlines and 20M stock records.
 
 ---
@@ -35,7 +35,7 @@ I'm a junior Computer Science student at Grambling State University (3.95 GPA) w
 ## 🧭 Up Next
 
 * 🔐 JWT login, availability, and live matching for InterviewPair.
-* 🧠 Answer generation for notes-rag, and a spaced-repetition engine for ZipMath.
+* 🧠 answer generation for Notes RAG, and a spaced-repetition engine for ZipMath.
 * 🌱 Code contributions to open source projects.
 
 ---
