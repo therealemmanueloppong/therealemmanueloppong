@@ -27,7 +27,7 @@ I'm a junior Computer Science student at Grambling State University (3.95 GPA) w
 
 * 📱 **[ZipMath](https://github.com/therealemmanueloppong/zipmath)** is a mental-math shortcuts app built with React Native (Expo) and TypeScript. The searchable shortcut list works; practice mode, tests, and a store release are next.
 * 🧠 **LC Practice** is an offline-first interview prep PWA built with Next.js and TypeScript, with an in-browser code editor, a spaced revision schedule, and push reminders.
-* 📊 **Stock Price Prediction (AI4ALL Ignite)** is a financial NLP pipeline using FinBERT sentiment features and a Random Forest classifier over 322K headlines and 20M stock records.
+* 📊 **[Stock Price Prediction (AI4ALL Ignite)](https://github.com/jiaying-l/AI4All_Project)** is a team project: a financial NLP pipeline using FinBERT sentiment features and a Random Forest classifier over 322K headlines and 20M stock records.
 
 ---
 
