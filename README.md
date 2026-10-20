@@ -2,14 +2,14 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=28&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hey+there%2C+I%27m+Emmanuel+%F0%9F%91%8B;Building+AI%2C+backend%2C+and+systems.;Turning+ideas+into+working+software.;Always+chasing+the+next+internship.;Let%27s+build+something+useful."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Emmanuel+%F0%9F%91%8B;CS+student+building+useful+software.;Mobile+%2B+web+apps%2C+and+ML+projects.;Looking+for+a+Summer+2027+SWE+internship."
     alt="Typing SVG"
   />
 </div>
 
 # 👨🏾‍💻 Emmanuel Oppong
 
-### Software Engineer • CS Student • Builder
+### Computer Science Student • Builder
 
 *"Ship it, then make it better."*
 
@@ -19,81 +19,51 @@
 
 ## ⚡ About Me
 
-I'm a Computer Science student at Grambling State University who enjoys building software across AI, backend systems, and developer-facing products.
-
-Currently exploring the intersection of:
-
-```text
-AI × Backend × Distributed Systems × Developer Tools
-```
-
-These days you'll usually find me:
-
-* 🤖 Building NLP and ML pipelines that turn raw data into signal
-* ⚙️ Designing backend services with Kafka, Redis, and PostgreSQL
-* 🧵 Digging into distributed systems and event-driven architectures
-* 🧑‍🎓 Chasing a 3.95 GPA while grinding LeetCode on the side
+I'm a junior Computer Science student at Grambling State University (3.95 GPA) who builds practical software for real people. I'm looking for a **Summer 2027 software engineering internship**.
 
 ---
 
-## ⚔️ Daily Drivers
+## 🔨 What I'm Building Now
 
-### Languages
+* 📱 **[ZipMath](https://github.com/therealemmanueloppong/zipmath)** is a mental-math shortcuts app built with React Native (Expo) and TypeScript. The searchable shortcut list works; practice mode, tests, and a store release are next.
+* 🧠 **LC Practice** is an offline-first interview prep PWA built with Next.js and TypeScript, with an in-browser code editor, a spaced revision schedule, and push reminders.
+* 📊 **Stock Price Prediction (AI4ALL Ignite)** is a financial NLP pipeline using FinBERT sentiment features and a Random Forest classifier over 322K headlines and 20M stock records.
+
+---
+
+## 🧭 Up Next
+
+* 🤝 **Mock-interview partner matcher for ColorStack Grambling** is a real-time web app where members sign in, get paired, and share a code editor and timer to practice interviews. *(Planned)*
+* ☕ **Java + Spring Boot backend** for ZipMath, with Docker, JUnit tests, and CI. *(Planned)*
+* 🔎 **Retrieval-based interview prep assistant** built with FAISS and embeddings, with measured retrieval accuracy on my own notes. *(Planned)*
+* 🌱 Code contributions to open source projects.
+
+---
+
+## 🤝 Community
+
+* **Academic Chair, ColorStack Grambling:** I lead weekly data structures and algorithms workshops.
+* **AWS Student Builder Group Leader** (starting Nov 2026)
+
+---
+
+## ⚔️ Tools I Use
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
-</div>
-
-### AI & Data
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
 </div>
-
-### Backend & Infrastructure
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45"/>
-</div>
-
----
-
-## 🌍 Outside of Code
-
-When I'm not coding you'll probably find me:
-
-* 📈 Reading up on the next internship cycle
-* 🏋🏾 In the gym
-* 🧩 Solving one more LeetCode problem "just to be safe"
-* 💡 Sketching out the next thing I want to build
 
 ---
 
