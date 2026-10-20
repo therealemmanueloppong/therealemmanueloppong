@@ -35,7 +35,7 @@ I'm a junior Computer Science student at Grambling State University (3.95 GPA) w
 ## 🧭 Up Next
 
 * 🔐 JWT login, availability, and live matching for InterviewPair.
-* 🧠 answer generation for Notes RAG, and a spaced-repetition engine for ZipMath.
+* 🧠 Answer generation for Notes RAG, and a spaced-repetition engine for ZipMath.
 * 🌱 Code contributions to open source projects.
 
 ---
