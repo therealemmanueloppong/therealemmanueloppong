@@ -25,16 +25,17 @@ I'm a junior Computer Science student at Grambling State University (3.95 GPA) w
 
 ## 🔨 What I'm Building Now
 
-* 📱 **[ZipMath](https://github.com/therealemmanueloppong/zipmath)** is a mental-math shortcuts app built with React Native (Expo) and TypeScript. The searchable shortcut list works; practice mode, tests, and a store release are next.
+* 📱 **[ZipMath](https://github.com/therealemmanueloppong/zipmath)** is a game-style mental-math app with lessons, XP, daily streaks and 26 levels across Basic, Intermediate and Advanced tiers. Built with **React Native (Expo) and TypeScript**. Every practice question is generated in code, so the answers are always correct. Next: automated tests and CI, accounts and sync with Supabase, then a store release.
+* 🤝 **[InterviewPair](https://github.com/therealemmanueloppong/interview-pair)** pairs students for mock technical interviews by topic, level and time. Early scaffold with a **Java 21 and Spring Boot** API (PostgreSQL, Flyway), a **React and TypeScript** frontend, and a tested matching rule. Java and Spring Boot are new to me, so this is where I'm learning them.
+* 🔎 **[notes-rag](https://github.com/therealemmanueloppong/notes-rag)** is a retrieval-based study assistant over my own notes, in **Python** with FAISS and sentence embeddings, plus a script that measures retrieval recall. Early scaffold, tested.
 * 📊 **[Stock Price Prediction (AI4ALL Ignite)](https://github.com/jiaying-l/AI4All_Project)** is a team project: a financial NLP pipeline using FinBERT sentiment features and a Random Forest classifier over 322K headlines and 20M stock records.
 
 ---
 
 ## 🧭 Up Next
 
-* 🤝 **Mock-interview partner matcher for ColorStack Grambling** is a real-time web app where members sign in, get paired, and share a code editor and timer to practice interviews. *(Planned)*
-* ☕ **Java + Spring Boot backend** for ZipMath, with Docker, JUnit tests, and CI. *(Planned)*
-* 🔎 **Retrieval-based interview prep assistant** built with FAISS and embeddings, with measured retrieval accuracy on my own notes. *(Planned)*
+* 🔐 JWT login, availability, and live matching for InterviewPair.
+* 🧠 Answer generation for notes-rag, and a spaced-repetition engine for ZipMath.
 * 🌱 Code contributions to open source projects.
 
 ---
@@ -59,9 +60,25 @@ I'm a junior Computer Science student at Grambling State University (3.95 GPA) w
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45"/>
   <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
   <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="45"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+</div>
+
+**Learning and using in current projects**
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
 </div>
 
 ---
