@@ -23,27 +23,34 @@ I'm a junior Computer Science student at Grambling State University (3.95 GPA) w
 
 ---
 
-## 🔨 What I'm Building Now
+## 🔨 Projects
 
-* 📱 **[ZipMath](https://github.com/therealemmanueloppong/zipmath)** ([try the live demo](https://therealemmanueloppong.github.io/zipmath/)) is a game-style mental-math app with lessons, XP, daily streaks and 26 levels across Basic, Intermediate and Advanced tiers. Built with **React Native (Expo) and TypeScript**. Every practice question is generated in code, so the answers are always correct. Next: automated tests and CI, accounts and sync with Supabase, then a store release.
-* 🤝 **[InterviewPair](https://github.com/therealemmanueloppong/interview-pair)** pairs students for mock technical interviews by topic, level and time. Early scaffold with a **Java 21 and Spring Boot** API (PostgreSQL, Flyway), a **React and TypeScript** frontend, and a tested matching rule. Java and Spring Boot are new to me, so this is where I'm learning them.
-* ⚡ **[GPU Robot Lab](https://github.com/therealemmanueloppong/gpu-robot-lab)** is GPU kernels written from scratch in **Python (Triton)** and benchmarked against PyTorch on a free Colab GPU, with an [interactive explainer](https://therealemmanueloppong.github.io/gpu-robot-lab/). The first matrix-multiply kernel is correct but only about 4% of PyTorch's speed, so tuning it is the current work. A simulated robot trained on a GPU simulator is next. Early stage.
-* 📊 **[Stock Price Prediction (AI4ALL Ignite)](https://github.com/jiaying-l/AI4All_Project)** is a team project: a financial NLP pipeline using FinBERT sentiment features and a Random Forest classifier over 322K headlines and 20M stock records.
+* 📱 **[ZipMath](https://github.com/therealemmanueloppong/zipmath)** ([try the live demo](https://therealemmanueloppong.github.io/zipmath/)) is a game-style mental-math app with lessons, XP, daily streaks and 26 levels across Basic, Intermediate and Advanced tiers. Built with **React Native (Expo) and TypeScript**. Every practice question is generated in code, so the answers are always correct, and a web demo deploys to GitHub Pages through GitHub Actions. Next: automated tests, accounts and sync with Supabase, then a store release.
+* 🤝 **[InterviewPair](https://github.com/therealemmanueloppong/interview-pair)** pairs students for mock technical interviews by topic, level and time. A **Spring Boot** API with JWT login, hashed passwords and a tested matching rule, plus a **React and TypeScript** frontend, served from one Docker image with 30+ automated tests and CI on GitHub Actions. It isn't deployed yet. Java and Spring Boot are new to me, so this is where I'm learning them.
+* ⚡ **[GPU Robot Lab](https://github.com/therealemmanueloppong/gpu-robot-lab)** is GPU kernels written from scratch in **Python (Triton)** and benchmarked against PyTorch on an NVIDIA T4, with an [interactive explainer](https://therealemmanueloppong.github.io/gpu-robot-lab/). I tuned a matrix-multiply kernel 3.4x (1,096 to 3,727 GFLOPS), found that its compiled code uses no tensor cores (the likely cause of the remaining gap), and built a MuJoCo MJX robot simulation up to 126x faster than one CPU thread, with 90+ automated tests in CI.
+* 📊 **[Stock Price Prediction (AI4ALL Ignite)](https://github.com/jiaying-l/AI4All_Project)** is a 3-person team project that predicts next-day stock decreases from financial news headlines, using FinBERT sentiment features and 20M+ stock price records. The Random Forest reached 54.4% accuracy against 50.8% for the Logistic Regression baseline, and I wrote the evaluation script.
+
+---
+
+## 🌱 Open Source
+
+* 3 merged documentation pull requests (Feb 2026): [Apache Kafka](https://github.com/apache/kafka/pull/21556) (Kafka Streams topology optimization guide and Javadoc), [Kubernetes Java client](https://github.com/kubernetes-client/java/pull/4616) (release history v15.0.0 to v25.0.0), and [PostgreSQL JDBC](https://github.com/pgjdbc/pgjdbc/pull/3945) (SCRAM authentication test setup).
 
 ---
 
 ## 🧭 Up Next
 
-* 🔐 JWT login, availability, and live matching for InterviewPair.
+* 🔐 Availability and live matching for InterviewPair, then deploying it.
 * 🧠 A spaced-repetition engine for ZipMath.
-* 🌱 Code contributions to open source projects.
+* 🌱 Code contributions, not just docs, to open source projects.
 
 ---
 
 ## 🤝 Community
 
-* **Academic Chair, ColorStack Grambling:** I lead weekly data structures and algorithms workshops.
+* **Academic Chair, ColorStack Grambling:** I lead weekly data structures and algorithms workshops for 90+ members.
 * **AWS Student Builder Group Leader** (starting Nov 2026)
+* 🏅 **Awards:** 2x Dean's List, 4x Academic Excellence Scholarship
 
 ---
 
