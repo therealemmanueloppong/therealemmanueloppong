@@ -19,7 +19,7 @@
 
 ## ⚡ About Me
 
-I'm a junior Computer Science student at Grambling State University (3.95 GPA) who builds practical software for real people. I'm looking for a **Summer 2027 software engineering internship**.
+I'm a junior Computer Science student at Grambling State University who builds practical software for real people. I'm looking for a **Summer 2027 software engineering internship**.
 
 ---
 
