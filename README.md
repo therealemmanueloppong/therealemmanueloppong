@@ -23,6 +23,14 @@ I'm a junior Computer Science student at Grambling State University who builds p
 
 ---
 
+## 🌱 Open Source
+
+* 5 merged pull requests, 2 code and 3 documentation, each through the project's review process.
+* **Code, Kubernetes Java client:** replaced fixed `Thread.sleep` waits in two tests, [#4970](https://github.com/kubernetes-client/java/pull/4970) and [#4971](https://github.com/kubernetes-client/java/pull/4971), as part of the project's timing-wait cleanup. One test class went from about 10.5 s to 0.5 s.
+* **Docs:** [Apache Kafka](https://github.com/apache/kafka/pull/21556) (Kafka Streams topology optimization guide and Javadoc, explaining that enabling it takes two steps), [Kubernetes Java client](https://github.com/kubernetes-client/java/pull/4616) (release history v15.0.0 to v25.0.0), and [PostgreSQL JDBC](https://github.com/pgjdbc/pgjdbc/pull/3945) (SCRAM authentication test setup).
+
+---
+
 ## 🔨 Projects
 
 * 📱 **[ZipMath](https://github.com/therealemmanueloppong/zipmath)** ([try the live demo](https://therealemmanueloppong.github.io/zipmath/)) is a game-style mental-math app with lessons, XP, daily streaks and 26 levels across Basic, Intermediate and Advanced tiers. Built with **React Native (Expo) and TypeScript**. Every practice question is generated in code, so the answers are always correct, and a web demo deploys to GitHub Pages through GitHub Actions. Next: automated tests, accounts and sync with Supabase, then a store release.
@@ -31,14 +39,6 @@ I'm a junior Computer Science student at Grambling State University who builds p
 * 📊 **[Stock Price Prediction (AI4ALL Ignite)](https://github.com/jiaying-l/AI4All_Project)** is a 3-person team project that predicts next-day stock decreases from financial news headlines, using FinBERT sentiment features and 20M+ stock price records. The Random Forest reached 54.4% accuracy against 50.8% for the Logistic Regression baseline, and I wrote the evaluation script.
 
 * 🔐 **[Breach-Adjusted Password Entropy](https://github.com/therealemmanueloppong/password-entropy)** is undergraduate research (Jan to May 2025) under Professor Dileon Saint-Jean, co-authored with Joshua Udo, showing that breached passwords such as `P@ssw0rd` still pass Gmail, Yahoo and Outlook checks. I implemented a breach-adjusted entropy metric in **Python**, and in 2026 extended it: on 1,001 breached passwords the standard formula scored a median 19.6 bits above zxcvbn. The repo also documents the errors I found when rechecking the original paper.
-
----
-
-## 🌱 Open Source
-
-* 5 merged pull requests, 2 code and 3 documentation, each through the project's review process.
-* **Code, Kubernetes Java client:** replaced fixed `Thread.sleep` waits in two tests, [#4970](https://github.com/kubernetes-client/java/pull/4970) and [#4971](https://github.com/kubernetes-client/java/pull/4971), as part of the project's timing-wait cleanup. One test class went from about 10.5 s to 0.5 s.
-* **Docs:** [Apache Kafka](https://github.com/apache/kafka/pull/21556) (Kafka Streams topology optimization guide and Javadoc, explaining that enabling it takes two steps), [Kubernetes Java client](https://github.com/kubernetes-client/java/pull/4616) (release history v15.0.0 to v25.0.0), and [PostgreSQL JDBC](https://github.com/pgjdbc/pgjdbc/pull/3945) (SCRAM authentication test setup).
 
 ---
 
@@ -75,6 +75,8 @@ I'm a junior Computer Science student at Grambling State University who builds p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
   <img width="12"/>
