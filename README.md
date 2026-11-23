@@ -53,7 +53,7 @@ I'm a junior Computer Science student at Grambling State University who builds p
 ## 🤝 Community
 
 * **Academic Chair, ColorStack Grambling:** I lead weekly data structures and algorithms workshops for 90+ members.
-* **AWS Student Builder Group Leader** (starting Nov 2026)
+* **AWS Student Builder Group Leader** (Nov 2026 to Present)
 * **Teaching Assistant, Grambling State:** Intro to Computer Science 1, Calculus 1 and Calculus 2 (since Aug 2025).
 * 🏅 **Awards:** 2x Dean's List, 4x Academic Excellence Scholarship
 
